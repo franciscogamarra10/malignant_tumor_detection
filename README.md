@@ -6,7 +6,7 @@ This project addresses a **binary classification** problem: predicting whether a
 
 ### 🧪 Why FNA?
 
-**Fine-Needle Aspiration (FNA)** is a minimally invasive and widely used diagnostic procedure to sample cell tissues from a breast mass. The dataset we use includes **30 numerical features** extracted from digitized images of FNA samples. These features describe characteristics such as texture, smoothness, compactness, and other properties of cell nuclei — all relevant indicators for medical diagnosis.
+**Fine-Needle Aspiration (FNA)** is a minimally invasive and widely used diagnostic procedure to sample cell tissues from a breast mass. The dataset we use includes **30 numerical features** extracted from digitized images of FNA samples. These features describe characteristics such as texture, smoothness, compactness, and other properties of cell nuclei — all relevant indicators for medical diagnosis.This method is a quick and low-risk method to obtain diagnostic information without surgery.Provides quantitative measurements (e.g., nucleus size, texture, concavity) that can be used in automated classification.Often used as a first-line diagnostic tool before biopsy or surgery.
 
 ---
 
